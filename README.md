@@ -6,7 +6,7 @@ The projects showcase a practical approach to solving business problems, handlin
 
 ---
 
-## 🚀 Key Projects & Portfolio Highlights
+##  Key Projects & Portfolio Highlights
 
 ### 1. Rainfall Prediction Classifier (Machine Learning Pipeline)
 * **File:** `AUSWeather.ipynb`
@@ -40,7 +40,7 @@ The projects showcase a practical approach to solving business problems, handlin
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 * **Languages:** Python (Advanced Core, PCEP Certified equivalent proficiency), SQL
 * **Data Analysis & Engineering:** Pandas, NumPy, SQLite, Web Scraping (BeautifulSoup)
@@ -49,7 +49,7 @@ The projects showcase a practical approach to solving business problems, handlin
 
 ---
 
-## 🎓 Certification Context
+##  Certification Context
 
 The **IBM Data Science Professional Certificate** is a rigorous program spanning data science orientation, open-source tools, data methodology, Python, SQL, data analysis, interactive visualizations, and practical machine learning applications. 
 
