@@ -27,7 +27,7 @@ The projects showcase a practical approach to solving business problems, handlin
 * **Libraries Used:** Pandas, Matplotlib, Seaborn, Folium (Choropleth maps).
 
 ### 4. Database Querying & Data Engineering
-* **File:** `Database Querying using SQLite.ipynb`
+* **File:** [Database Querying SQL](https://github.com/CasprCris/Data-Science-Practice-Labs/blob/main/Database-Querying-SQLite.ipynb)
 * **Objective:** Ingest, structure, and analyze complex socio-economic, public school, and crime datasets from the City of Chicago.
 * **Skills Showcase:** Relational database design, data loading pipelines via Python, executing complex SQL joins, subqueries, and aggregating metrics to uncover demographic insights.
 * **Tech Stack:** SQL, SQLite, Pandas.
