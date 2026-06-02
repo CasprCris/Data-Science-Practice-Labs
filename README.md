@@ -21,22 +21,16 @@ The projects showcase a practical approach to solving business problems, handlin
 * **Algorithms Applied:** Linear Regression, Ridge Regression (L2 Regularization), and Polynomial Feature Transformations to capture non-linear relationships.
 
 ### 3. Interactive Data Visualization Dashboard
-* **File:** `Data Visualization.ipynb`
+* **File:** [Data Visualization](https://github.com/CasprCris/Data-Science-Practice-Labs/blob/main/Data-Visualization.ipynb)
 * **Objective:** Synthesize historical automobile sales data during recessionary and non-recessionary periods into meaningful visual insights.
 * **Skills Showcase:** Designing structured, presentation-ready visualizations. Advanced map plotting and spatial analysis using geospatial datasets.
-* **Libraries Used:** Matplotlib, Seaborn, Folium (Choropleth maps), and Plotly.
+* **Libraries Used:** Pandas, Matplotlib, Seaborn, Folium (Choropleth maps).
 
 ### 4. Database Querying & Data Engineering
 * **File:** `Database Querying using SQLite.ipynb`
 * **Objective:** Ingest, structure, and analyze complex socio-economic, public school, and crime datasets from the City of Chicago.
 * **Skills Showcase:** Relational database design, data loading pipelines via Python, executing complex SQL joins, subqueries, and aggregating metrics to uncover demographic insights.
 * **Tech Stack:** SQL, SQLite, Pandas.
-
-### 5. Automated Financial Data Extraction
-* **File:** `Extracting Stock Data Using a Python Library.ipynb`
-* **Objective:** Programmatically extract and analyze financial stock data and web-scraped revenue metrics to evaluate corporate performance.
-* **Skills Showcase:** Web scraping, working with REST APIs, handling JSON structures, and dataframe manipulation.
-* **Tech Stack:** Python, `yfinance` API, BeautifulSoup, Pandas.
 
 ---
 
