@@ -9,7 +9,7 @@ The projects showcase a practical approach to solving business problems, handlin
 ##  Key Projects & Portfolio Highlights
 
 ### 1. Rainfall Prediction Classifier (Machine Learning Pipeline)
-* **File:** `AUSWeather.ipynb`
+* **File:** [Rainfall Prediciton Classifier](https://github.com/CasprCris/Data-Science-Practice-Labs/blob/main/Project_Rainfall-Prediction-Classifier.ipynb)
 * **Objective:** Predict whether it will rain tomorrow in Australia using historical meteorological data.
 * **Skills Showcase:** Feature engineering, building end-to-end classification pipelines, hyperparameter optimization (`GridSearchCV`), and evaluating performance using ROC-AUC, F1-Score, and confusion matrices.
 * **Algorithms Applied:** Logistic Regression, Decision Trees, Random Forests, and Support Vector Machines (SVM).
