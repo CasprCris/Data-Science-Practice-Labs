@@ -15,7 +15,7 @@ The projects showcase a practical approach to solving business problems, handlin
 * **Algorithms Applied:** Random Forests, Logistic Regression.
 
 ### 2. House Sales Pricing Regression Analysis
-* **File:** `House_Sales_in_King_Count_USA.ipynb`
+* **File:** [House Sales King County, USA](https://github.com/CasprCris/Data-Science-Practice-Labs/blob/main/Project_House-Sales-King-County.ipynb)
 * **Objective:** Predict real estate pricing trends in King County, USA, based on structural and regional features.
 * **Skills Showcase:** Data wrangling (handling missing values, dropping redundant features), Exploratory Data Analysis (EDA), and multi-variable regression pipelines.
 * **Algorithms Applied:** Linear Regression, Ridge Regression (L2 Regularization), and Polynomial Feature Transformations to capture non-linear relationships.
